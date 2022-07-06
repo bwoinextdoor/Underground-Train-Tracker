@@ -10,4 +10,5 @@ The project was originally built with React 0.12 but has since been updated to 0
 Updated Tube Tracker Repo
 
 ## Dependencies
-Node.js and NPM
+<a href="Node.js"> Node.js</a> and
+<a href="https://docs.npmjs.com/cli/v8/commands/npm-install"> Npm</a>
